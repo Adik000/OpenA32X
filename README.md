@@ -26,7 +26,8 @@ OpenA32X
 
 >[!TIP]
 > Take some time, this repository contains lot of data
->[!INFORMATION]
+
+>[!NOTE]
 > Each folder contain own extended structure
 
 # Software 
