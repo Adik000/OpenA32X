@@ -9,7 +9,7 @@
 OpenA3xx design is an Airbus A320 1:1 replica simulator. This repositry contains files for making one of it, so if you want to start hard and beautiful yourney this place is for you.
 If you have any questions, want to show yours build progress or just want to talk visit our Discord server.
 
->[CAUTION]
+>[WARNING]
 >THIS BUILD REQUIRES KNOWLEDGE OF TOOLS, PC OPERATING SYSTEMS, ELECTRONICS AND SAFETY.
 >FILES CONTAINED HERE, SPINDLES, LASERS HEADS, DRILL BITS, WIRES AND LOT OF OTHER PARTS & TOOLS DOESNT HAVE BRAINS, USE YOUR OWN YOU HAVE ONLY ONE LIFE
 
